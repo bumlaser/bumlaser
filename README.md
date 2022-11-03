@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nick, a professional web developer since 1996, currently working as Director of Digital Exp. for the Aircraft Owners and Pilots Assoc.
+- 👋 Hi, I’m Nick, a professional web developer since 1996, and currently Director of Digital Exp. for the Aircraft Owners and Pilots Assoc.
 - 👀 I’m interested in JS, web performance optimization, creative problem solving
 - 🌱 I’m currently learning React, and brushing up on ES6
 - 💞️ I’m looking to collaborate on anything from front-end UI code (HTML/CSS) to more advanced JS functionality
