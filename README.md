@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Nick, a professional web developer since 1996
 - 🛩 Currently Director of Digital Experience at the Aircraft Owners and Pilots Association
 - 👀 I’m interested in JS, web performance optimization, creative problem solving
-- 🌱 I’m currently learning React, and brushing up on ES6
-- 💞️ I’m looking to collaborate on anything from front-end UI code (HTML/CSS) to more advanced JS functionality
 - 📫 The best way to reach me is at nickabix@gmail.com
